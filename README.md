@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
