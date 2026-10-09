@@ -14,11 +14,13 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0049-group-anagrams) |
 ## Database
 |  |
 | ------- |
@@ -29,6 +31,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,6 +66,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
