@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
