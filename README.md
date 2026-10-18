@@ -96,5 +96,10 @@
 ## Design
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0707-design-linked-list) |
 | [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
