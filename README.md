@@ -24,6 +24,7 @@
 | [0001-two-sum](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 ## Database
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 ## Sliding Window
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0162-find-peak-element) |
+| [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,4 +93,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0066-plus-one) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
