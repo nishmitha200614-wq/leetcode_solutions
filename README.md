@@ -101,5 +101,10 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0707-design-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
