@@ -40,6 +40,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -127,6 +128,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
