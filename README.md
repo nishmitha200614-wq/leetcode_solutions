@@ -43,6 +43,7 @@
 | [0242-valid-anagram](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 ## Database
@@ -59,6 +60,7 @@
 | [0049-group-anagrams](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 ## Sliding Window
@@ -175,6 +177,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
