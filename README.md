@@ -41,6 +41,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -70,6 +71,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 ## Database
 |  |
@@ -105,6 +107,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
