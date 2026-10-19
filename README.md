@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 ## Database
 |  |
@@ -61,6 +63,7 @@
 | [0035-search-insert-position](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
@@ -82,6 +85,7 @@
 | [0234-palindrome-linked-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -100,6 +104,7 @@
 | [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
