@@ -45,6 +45,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 | [0053-maximum-subarray](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
