@@ -19,6 +19,7 @@
 | [0066-plus-one](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0162-find-peak-element) |
@@ -39,6 +40,7 @@
 | [0001-two-sum](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0205-isomorphic-strings) |
@@ -208,4 +210,8 @@
 | ------- |
 | [0136-single-number](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0268-missing-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
