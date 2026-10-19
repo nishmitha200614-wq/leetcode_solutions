@@ -27,6 +27,7 @@
 | [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@
 | [0202-happy-number](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0290-word-pattern) |
@@ -134,6 +136,7 @@
 | [0088-merge-sorted-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -195,12 +198,14 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0229-majority-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
