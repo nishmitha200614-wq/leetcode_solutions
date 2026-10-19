@@ -19,6 +19,7 @@
 | [0066-plus-one](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 ## Database
@@ -60,6 +62,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +88,7 @@
 | ------- |
 | [0015-3sum](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -134,4 +138,12 @@
 | [0203-remove-linked-list-elements](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
