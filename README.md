@@ -56,6 +56,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 ## Sliding Window
@@ -88,6 +89,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0189-rotate-array) |
