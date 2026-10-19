@@ -40,6 +40,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
@@ -55,6 +56,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 ## Sliding Window
 |  |
@@ -111,6 +113,7 @@
 | [0088-merge-sorted-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
