@@ -26,6 +26,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,4 +167,5 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
