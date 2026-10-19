@@ -22,6 +22,7 @@
 | [0152-maximum-product-subarray](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -87,6 +88,7 @@
 | [0088-merge-sorted-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -134,6 +136,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0189-rotate-array) |
 ## Design
 |  |
 | ------- |
