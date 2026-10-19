@@ -21,6 +21,7 @@
 | [0162-find-peak-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0143-reorder-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
