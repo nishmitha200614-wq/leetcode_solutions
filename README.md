@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0724-find-pivot-index](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,4 +162,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
