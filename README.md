@@ -58,6 +58,7 @@
 | [0073-set-matrix-zeroes](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0202-happy-number) |
@@ -232,6 +233,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
