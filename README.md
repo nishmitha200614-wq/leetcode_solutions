@@ -50,6 +50,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
+| [1929-concatenation-of-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -347,4 +348,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
