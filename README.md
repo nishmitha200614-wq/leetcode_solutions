@@ -49,6 +49,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1512-number-of-good-pairs](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0904-fruit-into-baskets](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
+| [1512-number-of-good-pairs](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 ## Database
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 | [0189-rotate-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 ## Design
 |  |
 | ------- |
@@ -264,6 +267,7 @@
 | [0347-top-k-frequent-elements](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
