@@ -117,6 +117,7 @@
 | [1108-defanging-an-ip-address](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Sliding Window
 |  |
 | ------- |
@@ -281,6 +282,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
