@@ -111,6 +111,7 @@
 | [0567-permutation-in-string](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
+| [1678-goal-parser-interpretation](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1678-goal-parser-interpretation) |
 ## Sliding Window
 |  |
 | ------- |
