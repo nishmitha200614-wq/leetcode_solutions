@@ -52,6 +52,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1920-build-array-from-permutation](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -86,6 +87,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 | [1512-number-of-good-pairs](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Database
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 | [1108-defanging-an-ip-address](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -277,6 +280,7 @@
 | [0383-ransom-note](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -301,6 +305,7 @@
 | [0136-single-number](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Union-Find
 |  |
 | ------- |
