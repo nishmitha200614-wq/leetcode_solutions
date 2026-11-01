@@ -119,6 +119,7 @@
 | [1678-goal-parser-interpretation](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2315-count-asterisks](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/2315-count-asterisks) |
 ## Sliding Window
 |  |
 | ------- |
