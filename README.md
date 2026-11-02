@@ -44,6 +44,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -231,10 +232,12 @@
 | [0155-min-stack](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
