@@ -55,6 +55,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1920-build-array-from-permutation](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1929-concatenation-of-array) |
@@ -119,6 +120,7 @@
 | [0709-to-lower-case](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0709-to-lower-case) |
 | [0981-time-based-key-value-store](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 | [1108-defanging-an-ip-address](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
