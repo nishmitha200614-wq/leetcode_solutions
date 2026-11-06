@@ -50,6 +50,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1470-shuffle-the-array) |
