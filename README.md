@@ -57,6 +57,7 @@
 | [1512-number-of-good-pairs](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1732-find-the-highest-altitude](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -311,6 +312,7 @@
 | [0724-find-pivot-index](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 ## Queue
 |  |
 | ------- |
