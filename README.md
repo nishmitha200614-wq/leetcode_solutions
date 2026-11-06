@@ -51,6 +51,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -218,6 +219,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -339,6 +341,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
