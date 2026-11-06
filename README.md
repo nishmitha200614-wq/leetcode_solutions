@@ -62,6 +62,7 @@
 | [1732-find-the-highest-altitude](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [2574-left-and-right-sum-differences](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
@@ -316,6 +317,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/nishmitha200614-wq/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Queue
 |  |
 | ------- |
